@@ -1,1 +1,3 @@
 # resume
+
+Shows an example of making a PDF interactive using input forms as a pixel display to make a simple snake game. Before anyone asks -- IDK if it will run doom (lol.) Maybe there are better APIs than what I used? Adobe's PDF flavor of Javascript is not something I'm an expert in...
